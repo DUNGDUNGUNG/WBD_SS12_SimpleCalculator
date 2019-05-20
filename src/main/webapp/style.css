@@ -1,0 +1,10 @@
+.calculate{
+    padding: 10px;
+    height: 200px;
+    width: 300px;
+    border: 2px #acdcdc solid;
+}
+.calculate input{
+    margin-left: 10px;
+    border: 1px darkseagreen solid;
+}
